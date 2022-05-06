@@ -24,11 +24,18 @@ Installation videos are found under Installation
 
 This project is installed by running a source command on the db schema.sql, then an npm run seed to seed the data to the data base, finally run node server.js. 
 
-[MYSQL Schema](https://watch.screencastify.com/v/GoIY2OiszuPnIN98yFMK)
-[]()
-[]()
-[]()
-[]()
+[MYSQL Schema](https://watch.screencastify.com/v/GoIY2OiszuPnIN98yFMK) 
+- cmd prompt login to mysql. AT mysql> source schema.sql
+[Seeds](https://watch.screencastify.com/v/Joiinsx8o1TnNpubGa5n) 
+````Bash
+npm run seed
+````
+[Server and GET requests](https://watch.screencastify.com/v/1yZZ0CX2fAMHXXEfhWcp)
+````Bash 
+node server.js
+````
+[Create,Update,Delete a model to or from db](https://watch.screencastify.com/v/kLW3k3E5X0cBx1BILtDi)
+
 
 ## Usage:
 
