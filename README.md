@@ -2,7 +2,9 @@
 
 ## Description:
 
-This project takes in seed data into a sql database, and creates tables for each model necessary for a ecommerce backend. Each model formats the seed data according to requirements of each model type. Then the restful api routes will create, delete, update, retrieve by id or retrieve all data from each model type.  
+This project takes in seed data into a sql database, and creates tables for each model necessary for a ecommerce backend. Each model formats the seed data according to requirements of each model type. Then the restful api routes will create, delete, update, retrieve by id or retrieve all data from each model type. 
+
+Installation videos are found under Installation
  
 ## Table of Contents
 
@@ -21,6 +23,12 @@ This project takes in seed data into a sql database, and creates tables for each
 ## Installation
 
 This project is installed by running a source command on the db schema.sql, then an npm run seed to seed the data to the data base, finally run node server.js. 
+
+[MYSQL Schema](https://watch.screencastify.com/v/GoIY2OiszuPnIN98yFMK)
+[]()
+[]()
+[]()
+[]()
 
 ## Usage:
 
